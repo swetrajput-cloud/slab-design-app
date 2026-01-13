@@ -70,7 +70,7 @@ slab-design-app/
 
 ⚙️ How to Run
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/slab-design-app.git
+git clone https://github.com/swetrajput-cloud/slab-design-app
 cd slab-design-app
 
 2️⃣ Install dependencies
